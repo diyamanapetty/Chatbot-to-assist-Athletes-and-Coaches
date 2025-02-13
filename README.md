@@ -1,1 +1,4 @@
-# Chatbot-to-assist-Athletes-and-Coaches
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
